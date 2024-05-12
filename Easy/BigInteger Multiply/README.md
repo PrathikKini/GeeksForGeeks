@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/biginteger-multiply/1?page=1&difficulty=School,Basic,Easy&status=unsolved&sortBy=accuracy">BigInteger Multiply</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two BigIntegers <strong>X</strong> and <strong>Y</strong>. You have&nbsp;to multiply X and Y.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/biginteger-multiply/1?page=1&difficulty=School,Basic,Easy&status=solved&sortBy=accuracy">BigInteger Multiply</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two BigIntegers <strong>X</strong> and <strong>Y</strong>. You have&nbsp;to multiply X and Y.</span></p>
 
 <p>&nbsp;</p>
 
