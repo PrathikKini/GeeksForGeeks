@@ -1,10 +1,7 @@
 #User function Template for python3
+x = int(input())
+while x>= 0:
+    print(x,end=" ")
+    x-=1
 
-
-# Function to print x in decreasing order
-def utility(x):
-    # Complete the code below
-    i = x
-    while i>=0:
-        print(i,end = " ")
-        i-=1
+# Your code here
