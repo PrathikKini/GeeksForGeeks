@@ -1,5 +1,6 @@
-#User function Template for python3
-def typeCast(d):
-    # Your code here
-    # Convert double d to int and return
-    return int(d)
+d = float(input())
+
+########### Write your code below ###############
+# typecast d to an integer and print it
+print(int(d))
+########### Write your code above ###############
