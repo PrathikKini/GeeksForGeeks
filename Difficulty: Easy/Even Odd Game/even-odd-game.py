@@ -1,7 +1,6 @@
 #User function Template for python3
-# Take n input and print who wins
-n = int(input())
-if n % 2 == 1:
-    print("You")
-else:
-    print("Friend")
+def utility(n):
+    # Return the winner as a string
+    if n % 2 != 0:
+        return "You"
+    return "Friend"
